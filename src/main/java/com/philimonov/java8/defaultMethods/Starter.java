@@ -1,4 +1,4 @@
-package com.philimonov.java8;
+package com.philimonov.java8.defaultMethods;
 
 public class Starter {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.philimonov.java8;
+package com.philimonov.java8.defaultMethods;
 
 public interface Formula {
     double calculate(int a);
